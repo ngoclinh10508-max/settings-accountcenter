@@ -10,3 +10,5 @@
 ![Alt text](./public/screen/screen-1.jpg)
 ![Alt text](./public/screen/screen-2.jpg)
 ![Alt text](./public/screen/screen-3.jpg)"# settings-accountcenter" 
+"# settings-accountcenter" 
+"# account-document" 
